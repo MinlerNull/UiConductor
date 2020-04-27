@@ -1,0 +1,545 @@
+{
+  "type": "CompoundAction",
+  "playStatus": "PASS",
+  "name": "mutildevices",
+  "actionId": "45e92b15-5dbd-4128-b16f-165f06827040",
+  "actionType": "COMPOUND_ACTION",
+  "actionDescription": "",
+  "delayAfterActionMs": 1500,
+  "deviceIndex": 0,
+  "isDirty": true,
+  "createdBy": "user1",
+  "runAlways": false,
+  "childrenActions": [
+    {
+      "type": "ClickAction",
+      "playStatus": "PASS",
+      "name": "Chrome",
+      "actionId": "db81ae3b-7076-4c8d-9b84-fc8947942400",
+      "actionType": "CLICK_ACTION",
+      "actionDescription": "",
+      "delayAfterActionMs": 1500,
+      "deviceIndex": 1,
+      "isDirty": true,
+      "createdBy": "user1",
+      "runAlways": false,
+      "nodeContext": {
+        "uuid": "c303eac4-0269-4ee4-9933-bb732fd8f09f",
+        "displayText": "Chrome",
+        "isUniqueResourceId": true,
+        "children": [
+          {
+            "uuid": "29ffe833-7c9a-4393-8606-aaac867c11ac",
+            "displayText": "拨打电话",
+            "isUniqueResourceId": false,
+            "children": [
+              {
+                "uuid": "74ce2edf-f3cb-4709-bcd5-f5558c277361",
+                "displayText": "拨打电话",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "拨打电话",
+                "contentDesc": "拨打电话",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 14,
+                  "y1": 544,
+                  "x2": 97,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 1,
+                "firstText": "拨打电话"
+              },
+              {
+                "uuid": "0a1fd8bd-1ae7-4cba-afff-58e3be3e58bb",
+                "displayText": "信息",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "信息",
+                "contentDesc": "信息",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 97,
+                  "y1": 544,
+                  "x2": 180,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 1,
+                "firstText": "信息"
+              },
+              {
+                "uuid": "c1ef18b3-1540-4a2a-984b-22abfaecfd09",
+                "displayText": "Chrome",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "Chrome",
+                "contentDesc": "Chrome",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 180,
+                  "y1": 544,
+                  "x2": 263,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": -6.5,
+                  "y": 5,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 1,
+                "firstText": "Chrome"
+              },
+              {
+                "uuid": "2e611ee3-35e0-4f22-a0ee-5e34a6d643ef",
+                "displayText": "相机",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "相机",
+                "contentDesc": "相机",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 263,
+                  "y1": 544,
+                  "x2": 346,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 1,
+                "firstText": "相机"
+              }
+            ],
+            "className": "android.view.ViewGroup",
+            "resourceId": "",
+            "text": "",
+            "contentDesc": "",
+            "checked": false,
+            "isCheckableNode": true,
+            "isClickableNode": false,
+            "enabled": true,
+            "bounds": {
+              "x1": 14,
+              "y1": 544,
+              "x2": 346,
+              "y2": 638
+            },
+            "clickedPos": {
+              "confidentLevel": 2,
+              "x": 0,
+              "y": 0,
+              "isPhysicalPos": false,
+              "validPos": false
+            },
+            "relativePos": {
+              "confidentLevel": 2,
+              "x": 0,
+              "y": 0,
+              "isPhysicalPos": false,
+              "validPos": false
+            },
+            "isRawXYPosition": false,
+            "isClickedCurrentNode": false,
+            "xmlLayerIndex": 1,
+            "firstText": "拨打电话"
+          }
+        ],
+        "className": "android.view.ViewGroup",
+        "resourceId": "com.android.launcher3:id/hotseat",
+        "text": "",
+        "contentDesc": "",
+        "checked": false,
+        "isCheckableNode": true,
+        "isClickableNode": false,
+        "enabled": true,
+        "bounds": {
+          "x1": 0,
+          "y1": 536,
+          "x2": 360,
+          "y2": 640
+        },
+        "clickedPos": {
+          "confidentLevel": 2,
+          "x": 456,
+          "y": 1172,
+          "isPhysicalPos": false,
+          "validPos": true
+        },
+        "relativePos": {
+          "confidentLevel": 2,
+          "x": -48,
+          "y": 2,
+          "isPhysicalPos": false,
+          "validPos": false
+        },
+        "isRawXYPosition": false,
+        "isClickedCurrentNode": false,
+        "xmlLayerIndex": 1,
+        "leafNodeContext": "c1ef18b3-1540-4a2a-984b-22abfaecfd09",
+        "firstText": ""
+      },
+      "isRawXY": false,
+      "isDoubleClick": false,
+      "failTestIfNotFound": true,
+      "isByElement": false,
+      "isOcrMode": false,
+      "strategy": null,
+      "selector": null
+    },
+    {
+      "type": "ClickAction",
+      "playStatus": "PASS",
+      "name": "拨打电话",
+      "actionId": "048118aa-c2d1-4376-b21b-4c5dc0e4dc51",
+      "actionType": "CLICK_ACTION",
+      "actionDescription": "",
+      "delayAfterActionMs": 1500,
+      "deviceIndex": 0,
+      "isDirty": true,
+      "createdBy": "user1",
+      "runAlways": false,
+      "nodeContext": {
+        "uuid": "e01f3486-7171-4d34-8247-3e12761ab295",
+        "displayText": "拨打电话",
+        "isUniqueResourceId": true,
+        "children": [
+          {
+            "uuid": "bbc29815-87e3-48c5-8383-e431f906254d",
+            "displayText": "拨打电话",
+            "isUniqueResourceId": false,
+            "children": [
+              {
+                "uuid": "e4e041e6-945f-4e5c-b782-4328ea070869",
+                "displayText": "拨打电话",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "拨打电话",
+                "contentDesc": "拨打电话",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 14,
+                  "y1": 544,
+                  "x2": 97,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 15.5,
+                  "y": -4,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 0,
+                "firstText": "拨打电话"
+              },
+              {
+                "uuid": "5ab35569-93fa-48d2-8232-98fb2f7a164d",
+                "displayText": "信息",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "信息",
+                "contentDesc": "信息",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 97,
+                  "y1": 544,
+                  "x2": 180,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 0,
+                "firstText": "信息"
+              },
+              {
+                "uuid": "7a165402-05de-4271-a91e-8172f4d40104",
+                "displayText": "Chrome",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "Chrome",
+                "contentDesc": "Chrome",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 180,
+                  "y1": 544,
+                  "x2": 263,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 0,
+                "firstText": "Chrome"
+              },
+              {
+                "uuid": "d4cf56a9-b724-4db7-b2c2-6771a6b1bddf",
+                "displayText": "相机",
+                "isUniqueResourceId": false,
+                "children": [],
+                "className": "android.widget.TextView",
+                "resourceId": "",
+                "text": "相机",
+                "contentDesc": "相机",
+                "checked": false,
+                "isCheckableNode": true,
+                "isClickableNode": true,
+                "enabled": true,
+                "bounds": {
+                  "x1": 263,
+                  "y1": 544,
+                  "x2": 346,
+                  "y2": 638
+                },
+                "clickedPos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "relativePos": {
+                  "confidentLevel": 2,
+                  "x": 0,
+                  "y": 0,
+                  "isPhysicalPos": false,
+                  "validPos": false
+                },
+                "isRawXYPosition": false,
+                "isClickedCurrentNode": false,
+                "xmlLayerIndex": 0,
+                "firstText": "相机"
+              }
+            ],
+            "className": "android.view.ViewGroup",
+            "resourceId": "",
+            "text": "",
+            "contentDesc": "",
+            "checked": false,
+            "isCheckableNode": true,
+            "isClickableNode": false,
+            "enabled": true,
+            "bounds": {
+              "x1": 14,
+              "y1": 544,
+              "x2": 346,
+              "y2": 638
+            },
+            "clickedPos": {
+              "confidentLevel": 2,
+              "x": 0,
+              "y": 0,
+              "isPhysicalPos": false,
+              "validPos": false
+            },
+            "relativePos": {
+              "confidentLevel": 2,
+              "x": 0,
+              "y": 0,
+              "isPhysicalPos": false,
+              "validPos": false
+            },
+            "isRawXYPosition": false,
+            "isClickedCurrentNode": false,
+            "xmlLayerIndex": 0,
+            "firstText": "拨打电话"
+          }
+        ],
+        "className": "android.view.ViewGroup",
+        "resourceId": "com.android.launcher3:id/hotseat",
+        "text": "",
+        "contentDesc": "",
+        "checked": false,
+        "isCheckableNode": true,
+        "isClickableNode": false,
+        "enabled": true,
+        "bounds": {
+          "x1": 0,
+          "y1": 536,
+          "x2": 360,
+          "y2": 640
+        },
+        "clickedPos": {
+          "confidentLevel": 2,
+          "x": 80,
+          "y": 1190,
+          "isPhysicalPos": false,
+          "validPos": true
+        },
+        "relativePos": {
+          "confidentLevel": 2,
+          "x": 140,
+          "y": -7,
+          "isPhysicalPos": false,
+          "validPos": false
+        },
+        "isRawXYPosition": false,
+        "isClickedCurrentNode": false,
+        "xmlLayerIndex": 0,
+        "leafNodeContext": "e4e041e6-945f-4e5c-b782-4328ea070869",
+        "firstText": ""
+      },
+      "isRawXY": false,
+      "isDoubleClick": false,
+      "failTestIfNotFound": true,
+      "isByElement": false,
+      "isOcrMode": false,
+      "strategy": null,
+      "selector": null
+    },
+    {
+      "type": "InputAction",
+      "playStatus": "PASS",
+      "name": "Home Button",
+      "actionId": "00dd4d2a-adf6-467b-acd6-b279bedeb190",
+      "actionType": "INPUT_ACTION",
+      "actionDescription": "",
+      "delayAfterActionMs": 1500,
+      "deviceIndex": 0,
+      "isDirty": true,
+      "createdBy": "user1",
+      "runAlways": false,
+      "keyCode": 3,
+      "inputString": null,
+      "isSingleChar": true
+    }
+  ],
+  "childrenIdList": [
+    "db81ae3b-7076-4c8d-9b84-fc8947942400",
+    "048118aa-c2d1-4376-b21b-4c5dc0e4dc51",
+    "00dd4d2a-adf6-467b-acd6-b279bedeb190"
+  ],
+  "repeatTime": 1,
+  "failAtTheEnd": false,
+  "forceDeviceOnChildren": false,
+  "additionalData": {
+    "version": "1",
+    "globalVariableStr": ""
+  }
+}
