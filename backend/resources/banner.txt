@@ -1,0 +1,17 @@
+Font Name: Doh
+${Ansi.RED}  UUUUUUUU     UUUUUUUUIIIIIIIIII      CCCCCCCCCCCCCDDDDDDDDDDDDD
+${Ansi.GREEN}  U::::::U     U::::::UI::::::::I   CCC::::::::::::CD::::::::::::DDD
+${Ansi.BLUE}  U::::::U     U::::::UI::::::::I CC:::::::::::::::CD:::::::::::::::DD
+${Ansi.RED}  UU:::::U     U:::::UUII::::::IIC:::::CCCCCCCC::::CDDD:::::DDDDD:::::D
+${Ansi.GREEN}   U:::::U     U:::::U   I::::I C:::::C       CCCCCC  D:::::D    D:::::D
+${Ansi.BLUE}   U:::::D     D:::::U   I::::IC:::::C                D:::::D     D:::::D
+${Ansi.RED}   U:::::D     D:::::U   I::::IC:::::C                D:::::D     D:::::D
+${Ansi.GREEN}   U:::::D     D:::::U   I::::IC:::::C                D:::::D     D:::::D
+${Ansi.BLUE}   U:::::D     D:::::U   I::::IC:::::C                D:::::D     D:::::D
+${Ansi.RED}   U:::::D     D:::::U   I::::IC:::::C                D:::::D     D:::::D
+${Ansi.GREEN}   U:::::D     D:::::U   I::::IC:::::C                D:::::D     D:::::D
+${Ansi.BLUE}   U::::::U   U::::::U   I::::I C:::::C       CCCCCC  D:::::D    D:::::D
+${Ansi.RED}   U:::::::UUU:::::::U II::::::IIC:::::CCCCCCCC::::CDDD:::::DDDDD:::::D
+${Ansi.GREEN}    UU:::::::::::::UU  I::::::::I CC:::::::::::::::CD:::::::::::::::DD
+${Ansi.BLUE}      UU:::::::::UU    I::::::::I   CCC::::::::::::CD::::::::::::DDD
+${Ansi.RED}        UUUUUUUUU      IIIIIIIIII      CCCCCCCCCCCCCDDDDDDDDDDDDD
